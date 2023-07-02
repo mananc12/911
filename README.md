@@ -27,8 +27,8 @@ This is a web application built using React and Node.js that allows users to sea
 ## Setup Instructions
 
 ### Prerequisites
-- Node.js (version X.X.X)
-- npm (version X.X.X)
+- Node.js
+- npm
 
 ### Frontend Setup
 1. Clone the repository:
